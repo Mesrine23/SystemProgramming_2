@@ -1,0 +1,3 @@
+/home/mesrine/Desktop/system_programming_2/cmake-build-debug/CMakeFiles/system_programming_2.dir
+/home/mesrine/Desktop/system_programming_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mesrine/Desktop/system_programming_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
